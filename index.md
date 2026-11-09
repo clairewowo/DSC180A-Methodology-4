@@ -1,7 +1,7 @@
-   ---
-   layout: default
-   title: Home
-   ---
+---
+layout: default
+title: Home
+---
 
 ## Personal information
 - Name: Claire Wang
